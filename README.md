@@ -1,8 +1,8 @@
 ## Hey, I'm Yacine 👋
 
-I'm a **Full-Stack Developer**, **AI Automation Specialist**, and **Founder of [Corex Digital](https://corexdigital.com)** — a full-service digital agency delivering web development, AI automation, UI/UX design, and brand identity solutions for clients worldwide.
+I'm a **Full-Stack Developer**, **AI Automation Specialist**, and **Founder of [Corex Digital](https://corexdigital.netlify.app/)** — a full-service digital agency delivering web development, AI automation, UI/UX design, and brand identity solutions for clients worldwide.
 
-With 7+ years of experience across development, design, and strategy, I specialize in building scalable web applications and intelligent automation workflows that turn complex problems into clean, working products.
+With 5+ years of experience across development, design, and strategy, I specialize in building scalable web applications and intelligent automation workflows that turn complex problems into clean, working products.
 
 ---
 
