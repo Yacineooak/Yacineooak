@@ -1,47 +1,57 @@
-## Hey, I'm Yacine 👋
+# Hey, I'm Yacine 👋
 
-I'm a **Full-Stack Developer**, **AI Automation Specialist**, and **Founder of [Corex Digital](https://corexdigital.netlify.app/)** — a full-service digital agency delivering web development, AI automation, UI/UX design, and brand identity solutions for clients worldwide.
+**Software & AI Engineer** · Founder of **COREX Digital Agency** · BSc in Cybersecurity
 
-With 5+ years of experience across development, design, and strategy, I specialize in building scalable web applications and intelligent automation workflows that turn complex problems into clean, working products.
-
----
-
-### 🚀 What I Do
-
-- 🌐 **Full-Stack Development** — React, Next.js, Node.js, Laravel, Django
-- 🤖 **AI & Automation** — LLM integrations, n8n, Make, ChatGPT API, Claude AI, Botpress
-- 🎨 **UI/UX & Design** — Figma, Adobe Suite, Blender
-- ☁️ **Cloud & DevOps** — AWS, Docker, Git, CI/CD
-- 📊 **Data Science** — Python, Pandas, NumPy, Scikit-learn
+I build AI-driven software and secure, scalable web platforms for industrial, pharmaceutical, healthcare and enterprise clients. With 5+ years across development, design and strategy, I turn complex problems into clean, working products.
 
 ---
 
-### 🏢 Currently
+## 🚀 What I Do
 
-- 🔭 Running **Corex Digital** — end-to-end digital agency
-- 💼 Full-Stack Developer & Automation Specialist @ **Excellencias Corporate**
-- 🌱 Always exploring the intersection of **AI and real-world product development**
+- 🧠 **AI & Automation** — LLM integrations, AI agents, RAG, document generation, n8n, Make, LangGraph
+- 🌐 **Full-Stack Development** — React, Next.js, TypeScript, Node.js (Express, NestJS), Python, Laravel, Django
+- 🛡️ **Cybersecurity** — application security, SOC and GRC foundations, AI-assisted compliance tooling
+- ☁️ **Cloud & DevOps** — AWS, Docker, Git, CI/CD, blue-green deployments
+- 🎨 **UI/UX & Brand Design** — Figma, Adobe Suite, design systems and brand identity
 
----
+## 🏆 Selected Work
 
-### 🛠️ Tech Stack
+- **PPE Flow** — platform for managing personal protective equipment, built for HSE and safety teams
+- **ConformIQ** — AI-driven cybersecurity tool grounded in Algerian cyber law
+- **Major accident risk monitoring SaaS** — dynamic initial risk, residual risk and barrier health tracking
+- Management systems for hotels and clinics, custom CRMs, check-in and complaint management systems
+- AI-driven document generation and business automation
+- Dynamic product landing pages for pharmaceutical laboratories, and brand design for an insulin product
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 📍 Currently
 
----
+- 🤖 Software & AI Engineer on PPE Flow (remote)
+- 🏢 Running COREX Digital Agency — end-to-end digital solutions
+- 💼 Full-Stack Developer & Automation Specialist @ Excellencias Corporate
+- 🌱 Exploring the intersection of AI and real-world product development
 
-### 📬 Let's Connect
+## 🛠️ Tech Stack
 
-- 📧 yacineooak12@gmail.com
-- 📍 Algeria 🇩🇿
-- 💼 [LinkedIn](https://linkedin.com/in/KhaldiAhmedYacine)
+![React](https://img.shields.io/badge/React-2c5ab0?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0a1230?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2c5ab0?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2c5ab0?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0a1230?style=flat&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2c5ab0?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c5ab0?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1230?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2c5ab0?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0a1230?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2c5ab0?style=flat&logo=figma&logoColor=white)
+
+## 🎓 Education & Certifications
+
+- BSc in Cybersecurity — Security of Information Systems, HIS University
+- Microsoft AI & ML Engineering · Microsoft Cybersecurity Architect · Microsoft Cybersecurity Analyst
+- Google Cybersecurity · Information Security Analyst (EC-Council)
+
+## 🤝 Let's Connect
+
+- 📧 [yacineooak12@gmail.com](mailto:yacineooak12@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-yacine-khaldi-b76402246/)
+- 📍 Algeria 🇩🇿 · Open to remote work and relocation (Europe, Canada)
